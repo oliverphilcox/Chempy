@@ -1,3 +1,5 @@
+# *NB*: This has been deprecated and replaced by the [*ChempyMulti*](https://github.com/oliverphilcox/ChempyMulti) package, which additionally includes multi-star inference
+
 # ChempyScoring - Evolution Modelling + Yield Table Scoring
 Flexible one-zone open-box chemical evolution modeling. Abundance fitting and stellar feedback calculation. Parameter optimization for simulations and yield table scoring. This is the code described in Philcox, Rybizki & Gutke (ApJ, [arXiv](https://arxiv.org/abs/1712.05686))
 
